@@ -6,6 +6,7 @@
 
 	The ship is a unit controlled by the player. It is moved by the left/right 
 	arrow keys and fires missiles with the spacebar. 
+	Check. 
 ]]
 
 Ship = Class{}
